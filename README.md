@@ -57,8 +57,26 @@ Repo for DTU 42436 Commercialization of high tech concepts, entrepreneurship and
   * Narrowband imaging lets you you see capillaries under the skin surface at varying depths.
   * Bacterial disinfection via LEDs
     * Works similarly to the sun, grey summers are accompanies by copious algae growth.
-  * Optimal wavelength for killing bacteria 296 nm
+    * Reduce consumption of antibiotic
+    * Irradiate salmonella and MRSA at slaughterhouses
+    * Optimal wavelength for killing bacteria 296 nm
   * Using LED lights in pig farms greatly reduces the use of antibiotics
 * The semiconductor industry is huge. Semiconductors make LEDs shine.
-* Reduce consumption of antibiotic
-* Irradiate salmonella and MRSA at slaughterhouses
+
+
+
+## Lecture 4 - Market Opportunity Navigator
+* Dilemma - which mountain to climb? can I move to a different mountain, while climbing?
+* Market opportunities:
+  * which exist?
+  * which are best?
+  * ???
+* **Market opportunity set** - Set of opportunities
+
+## Lecture 5
+
+Theory of diffusion in innovation
+![diff](diff.png)
+* Innovators / Early adopters
+* Majority
+* Laggards
